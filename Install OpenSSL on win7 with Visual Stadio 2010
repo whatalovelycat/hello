@@ -1,0 +1,3 @@
+version: openssl 1.1.0g
+Following the guide in the file INSTALL
+perl Configure VC-WIN64A 
